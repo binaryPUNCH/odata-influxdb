@@ -14,6 +14,8 @@ python: Currently requires Python 2. Tested on latest 2.7.
 [pyslet](https://github.com/swl10/pyslet): The OData functionality from the pyslet project 
 is used in this project.
 
+Dependencies installed with `pip install -r requirements.txt`.
+
 ## Usage:
 
 Run the following command to generate a sample config file:
